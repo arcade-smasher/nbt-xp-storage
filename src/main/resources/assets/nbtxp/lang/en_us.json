@@ -1,0 +1,9 @@
+{
+	"command.nbtxp.amount.set": "Set the current global XP consumption amount to %s",
+	"command.nbtxp.amount.current": "The current global XP consumption amount is set to %s",
+	"command.nbtxp.consumption": "Player XP consumption is %s",
+	"command.nbtxp.consumption.enable": "Player XP consumption is now enabled",
+	"command.nbtxp.consumption.disable": "Player XP consumption is now disabled",
+	"command.nbtxp.consumption_enabled.true": "enabled",
+	"command.nbtxp.consumption_enabled.false": "disabled"
+}

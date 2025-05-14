@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.nbtxp.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"ExperienceBottleEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
